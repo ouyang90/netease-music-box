@@ -50,6 +50,10 @@
 - 基于 Github API 更新 Gist
 - 使用 Github Actions 自动更新 Gist
 
+## 我的歌单
+
+[我喜欢的歌](https://music.163.com/#/playlist?id=367498373)
+
 ## 📄 开源协议
 
 本项目使用 [MIT](./LICENSE) 协议
